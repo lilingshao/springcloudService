@@ -1,0 +1,4 @@
+启动zookeeper界面zkui:
+cmd D:\zkui\zkui\target
+java -jar zkui-2.0-SNAPSHOT-jar-with-dependencies.jar &
+访问: http://localhost:9090/home?zkPath=/ 用户名:admin 密码:manager
